@@ -1,4 +1,3 @@
-from logging import root
 import tkinter as tk
 from FunctionGrapher import GraphMaker
 
