@@ -1,4 +1,4 @@
-Sorting Algorithm Visualizer
+Sorting Algorithm Visualizer:
 This program is a sorting algorithm visualizer that uses the tkinter library for the user interface and the matplotlib library for graphing. 
 The user can current select from three different sorting algorithms (Bubble Sort, Bubble SortEff, and Insertion Sort) and adjust the number of bars to be sorted, the duration of each frame, 
 and the number of operations per frame using sliders. The user can also choose to generate a gif of the sorting process. SortingVisualizer sets up the UI and handles the user interactions, 
